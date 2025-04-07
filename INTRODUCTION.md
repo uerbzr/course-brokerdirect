@@ -1,10 +1,10 @@
-# The story of Nigel
+# The Briefer History of Nigel
 
 😀 **Name**: Nigel
 
 🏠 **Lives**: Bournemouth
 
-👍 **Likes**: Family time, Getting on the water, walking Jurrasic Coast, 🎸playing guitar, piano etc
+👍 **Likes**: Family time, Getting on the water, walking Jurrasic Coast, 🎸playing guitar, piano, space, scifi etc
 
 🔗 **LinkedIn**: [here](https://www.linkedin.com/in/nigel-sibbert-ab7b0731/)
 
