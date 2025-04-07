@@ -6,9 +6,7 @@
 
 👍 **Likes**: Family time, Getting on the water, walking Jurrasic Coast, 🎸playing guitar, piano, space, scifi etc
 
-🔗 **LinkedIn**: [here](https://www.linkedin.com/in/nigel-sibbert-ab7b0731/)
-
-🔗 **Github**: [here](https://www.github.com/uerbzr)
+ℹ️ **Random Fact**: once supported Bob Dylan (sort of.. 😀)
 
 ⭐ Met Tom @ Framework Training last year
 
@@ -27,3 +25,7 @@
 👉 **Tools & Platforms:** Docker • Azure DevOps • GitHub • Jenkins • SharePoint • IIS • RedHat
 
 👉 **Best Practices:** SOLID Principles • Design Patterns • Agile (Scrum/Kanban) • TDD • CI/CD
+
+🔗 **Github**: [here](https://www.github.com/uerbzr)
+
+🔗 **LinkedIn**: [here](https://www.linkedin.com/in/nigel-sibbert-ab7b0731/)
