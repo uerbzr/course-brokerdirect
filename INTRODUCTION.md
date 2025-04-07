@@ -1,5 +1,7 @@
 # The Briefer History of Nigel
 
+---
+
 😀 **Name**: Nigel
 
 🏠 **Lives**: Bournemouth
@@ -16,6 +18,10 @@
 
 🌱 Love the challenge of developing: always learning!
 
+## Tech
+
+---
+
 👉 **Language:** C# • Python • HTML • SQL • Terraform • COBOL • VB.Net • C • JAVA • Pascal
 
 👉 **Frontend & Web:** HTML5 • CSS3 • JavaScript • TypeScript • jQuery • React • Angular • Prisma
@@ -25,6 +31,10 @@
 👉 **Tools & Platforms:** Docker • Azure DevOps • GitHub • Jenkins • SharePoint • IIS • RedHat
 
 👉 **Best Practices:** SOLID Principles • Design Patterns • Agile (Scrum/Kanban) • TDD • CI/CD
+
+## Social
+
+---
 
 🔗 **Github**: [here](https://www.github.com/uerbzr)
 
